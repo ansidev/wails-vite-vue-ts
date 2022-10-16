@@ -1,0 +1,7 @@
+{
+  "name": "Vue + Vite (Typescript)",
+  "shortname": "vue-ts",
+  "author": "Le Minh Tri",
+  "description": "Vue + Vite development server",
+  "helpurl": "https://github.com/ansidev/wails-vite-vue-ts"
+}
